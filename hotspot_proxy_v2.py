@@ -1,5 +1,6 @@
 ###############################################################################
-# Copyright (C) 2020 Simon Adlem, G7RZU <g7rzu@gb7fr.org.uk>  
+#   Copyright (C) 2020 Simon Adlem, G7RZU <g7rzu@gb7fr.org.uk>  
+#   Further developed by (C) 2026 Shane Daley, M0VUB <shane@freestar.network>
 #
 #   This program is free software; you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by
@@ -29,10 +30,10 @@ from datetime import datetime
 # Does anybody read this stuff? There's a PEP somewhere that says I should do this.
 __author__     = 'Simon Adlem - G7RZU'
 __copyright__  = 'Copyright (c) Simon Adlem, G7RZU 2020,2021,2022'
-__credits__    = 'Jon Lee, G4TSN; Norman Williams, M6NBP; Christian, OA4DOA'
+__credits__    = 'Shane, M0VUB; Christian, OA4DOA'
 __license__    = 'GNU GPLv3'
-__maintainer__ = 'Simon Adlem G7RZU'
-__email__      = 'simon@gb7fr.org.uk'
+__maintainer__ = 'Shane Daley, M0VUB'
+__email__      = 'shane@freestar.network'
 
 def IsIPv4Address(ip):
     try:
