@@ -29,9 +29,9 @@ from datetime import datetime
 
 # Does anybody read this stuff? There's a PEP somewhere that says I should do this.
 __author__     = 'Simon Adlem - G7RZU'
-__verion__     = '1.4.1'
+__verion__     = '2.0.1'
 __copyright__  = 'Copyright (c) Simon Adlem, G7RZU 2020,2021,2022'
-__credits__    = 'Christian, OA4DOA; Shane, M0VUB'
+__credits__    = 'Shane, M0VUB'
 __license__    = 'GNU GPLv3'
 __maintainer__ = 'Shane Daley M0VUB'
 __email__      = 'shane@freestar.network'
